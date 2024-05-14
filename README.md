@@ -1,6 +1,7 @@
 # Epidemic-Simulation
 An [interactive](https://prajwalsouza.github.io/Experiments/Epidemic-Simulation.html) inspired by 3Blue1Brown's ['Simulating an Epidemic'](https://www.youtube.com/watch?v=gxAaO2rsdIs) video.
 <br/><br/>
+For the CSV Export file, [click here](https://epidemic-simulation.vercel.app/Epidemic%20-%20CSV%20Export.html)
  
 ### Updates 
 03-04-2022
